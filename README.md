@@ -1,4 +1,4 @@
-<h2 align="center">I'm Peu Silva! 🖖🏿</h2>
+<h2 align="center">I'm Peu Silva! 🖖</h2>
 
 <div align="center">
   <a href="https://github.com/peueueu">
